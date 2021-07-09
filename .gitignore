@@ -1,0 +1,12 @@
+# Eclipse
+.project
+.settings
+.classpath
+
+# IDEA
+*.iml
+.idea
+
+# others
+target
+*.war
